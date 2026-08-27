@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "mandatory": false,
-    "notes": "Primeira versão com atualização automática.",
+    "notes": "Bug Fixes e Melhorias",
     "x64": {
         "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/download/v1.0.0/Montador_A4_x64.exe",
         "sha256": "HASH_REAL_GERADO_AUTOMATICAMENTE"
