@@ -3,11 +3,11 @@
     "mandatory": true,
     "notes": "Melhorias e Bug fixes",
     "x64": {
-        "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/download/v1.0.1/Montador_A4_x64.exe",
+        "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/download/1.0.1/Montador_A4_x64.exe",
         "sha256": "8eb099782fcb7495049aaa94cb5bc96f869bfee586d6c54c70a10728c2f98d29"
     },
     "x86": {
-        "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/download/v1.0.1/Montador_A4_x86.exe",
+        "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/download/1.0.1/Montador_A4_x86.exe",
         "sha256": "38f7721a13d5cb85cc4c398e77639736e1a936f9c9ce9ab282109dceabeb2e5f"
     }
 }
