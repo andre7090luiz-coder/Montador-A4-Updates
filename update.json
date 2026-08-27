@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "mandatory": false,
+    "notes": "Primeira versão com sistema de atualização automática.",
+    "x64": {
+        "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/latest/download/Montador_A4_x64.exe",
+        "sha256": ""
+    },
+    "x86": {
+        "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/latest/download/Montador_A4_x86.exe",
+        "sha256": ""
+    }
+}
