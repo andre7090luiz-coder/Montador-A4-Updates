@@ -1,13 +1,13 @@
 {
     "version": "1.1.0",
     "mandatory": true,
-    "notes": "Cortar Imagem adicionado",
+    "notes": "Novas ferramentas de recorte e melhorias na interface",
     "x64": {
         "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/download/1.1.0/Montador_A4_x64.exe",
-        "sha256": "e6780c22746ba229b1a98e3a3208d30ab66d252cab5d9fa2295a257c93d036ed"
+        "sha256": "d45badda9b40a5bd5cacd89246f7839da0980b2e73796eeccbda25d1b8c752a7"
     },
     "x86": {
         "url": "https://github.com/andre7090luiz-coder/Montador-A4-Updates/releases/download/1.1.0/Montador_A4_x86.exe",
-        "sha256": "ea043b79f0581b58dcdb0465310b8ae3601571aaa3ff96868710397a2b42db9a"
+        "sha256": "7cad0856f328f44acf1ada0fe81cb25004967ab6fd81b862e8f051265f57b326"
     }
 }
